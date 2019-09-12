@@ -6,6 +6,8 @@ def my_each(collection)
   #   i += 1
   # end
   # return collection
+  
+  do_this if birds_fly
 
 end
 
