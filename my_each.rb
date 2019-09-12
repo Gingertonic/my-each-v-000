@@ -6,8 +6,13 @@ def my_each(collection)
   #   i += 1
   # end
   # return collection
-  birds_fly = false
-  do_this if birds_fly
+  if this 
+    do_this
+  elsif that 
+    do_that 
+  else 
+    blah
+  end
 
 end
 
