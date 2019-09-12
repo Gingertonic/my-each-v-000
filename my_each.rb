@@ -6,7 +6,7 @@ def my_each(collection)
   #   i += 1
   # end
   # return collection
-  
+  birds_fly = false
   do_this if birds_fly
 
 end
