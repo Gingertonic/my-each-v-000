@@ -1,3 +1,5 @@
+require 'pry'
+
 def my_each(collection)
   binding.pry
   # i = 0
